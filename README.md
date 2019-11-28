@@ -97,3 +97,10 @@
 ![数据表现技术](https://raw.githubusercontent.com/liuhuachao/pmp/master/%E5%9B%BE%E8%A1%A8%E9%99%84%E5%BD%95/%E8%A1%A8%20X6-1%20%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB%E4%B8%8E%E5%9B%A2%E9%98%9F%E6%8A%80%E8%83%BD%E5%B7%A5%E5%85%B7%E6%8A%80%E6%9C%AF1.png)
 
 * 其他未分组技术（60种）
+
+
+[零基础学习项目管理](https://www.jianshu.com/c/6e022e2f23df)
+
+
+
+[PMP笔记](https://blog.csdn.net/Michael_HM/column/info/30948)
